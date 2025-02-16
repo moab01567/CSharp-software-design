@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager", "ContactManager\ContactManager.csproj", "{ED613986-103B-4A77-9700-24F5180827E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.Test", "ContactManager.Test\ContactManager.Test.csproj", "{127E53FA-955C-4459-89C5-8229F2B9F2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED613986-103B-4A77-9700-24F5180827E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED613986-103B-4A77-9700-24F5180827E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED613986-103B-4A77-9700-24F5180827E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED613986-103B-4A77-9700-24F5180827E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127E53FA-955C-4459-89C5-8229F2B9F2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127E53FA-955C-4459-89C5-8229F2B9F2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127E53FA-955C-4459-89C5-8229F2B9F2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127E53FA-955C-4459-89C5-8229F2B9F2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE327F52-10E3-4086-9964-16D01A0E7F7F}
+	EndGlobalSection
+EndGlobal
